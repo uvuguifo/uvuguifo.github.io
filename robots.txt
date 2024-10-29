@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uvuguifo.github.io/sitemap_index.uvuguifo
